@@ -1,0 +1,6 @@
+run
+walk
+swim
+jog
+make pizza
+think
